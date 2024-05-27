@@ -1,0 +1,29 @@
+h1,p,body{
+    margin: 0;
+}
+
+p,a{
+    font-size: 20px;
+}
+
+/* 開始　headerのCSS */
+header{
+    margin-bottom: 20px;
+    background-color: rgb(244,79, 79);
+    text-align: center;
+}
+
+header > h1{
+    color: rgb(255,255,255);
+}
+/* 終了　headerのCSS */
+
+/* 開始　mainのCSS */
+main{
+    margin: 10px;
+}
+
+#parent{
+    
+}
+/* 終了　mainのCSS */
